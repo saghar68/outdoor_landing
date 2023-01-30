@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "outdoor landing",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
